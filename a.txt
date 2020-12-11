@@ -73,3 +73,10 @@ git chectout canvas
 切換到這個版本
 
 git commit -am "a 是 add , m 是 註解"
+
+
+git branch
+看看自己在哪裡
+
+git merge canvas
+合併分支 canvas是分支名
