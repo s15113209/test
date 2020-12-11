@@ -72,3 +72,5 @@ git branch canvas
 git checkout canvas
 切換到這個版本
 然後再commit 
+
+merger
