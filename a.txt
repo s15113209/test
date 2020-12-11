@@ -1,0 +1,24 @@
+git init
+git config --global user
+git config --global user
+連結Git
+
+git status
+觀察
+
+git add a.txt
+更新上去
+
+git commit -m "這是歷史紀錄，可以加註解"
+
+git log
+歷史紀錄
+Author: Ray <top820510@gmail.com>
+Date:   Fri Dec 11 09:48:10 2020 +0800
+
+    這是歷史紀錄，可以加註解
+
+
+尋找 git graph 套件
+
+
