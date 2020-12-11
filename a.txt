@@ -81,3 +81,15 @@ git branch
 
 git merge canvas
 合併分支 canvas是分支名
+
+
+
+git branch -d canvas   
+把合併過後的分支刪掉
+
+git log --oneline
+一行的歷史紀錄
+
+
+git tag v1.0
+增加標籤
