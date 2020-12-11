@@ -19,6 +19,55 @@ Date:   Fri Dec 11 09:48:10 2020 +0800
     這是歷史紀錄，可以加註解
 
 
-尋找 git graph 套件
+
+安裝 git graph 套件
+是好看的 git log
 
 
+git diff 
+在commit前檢查更動
+
+   
+git reset --hard HEAD~1
+回到第一個版本
+
+gitgit init
+git config --global user
+git config --global user
+連結Git
+
+git status
+觀察
+
+git add a.txt
+更新上去
+
+git commit -m "這是歷史紀錄，可以加註解"
+
+git log
+歷史紀錄
+Author: Ray <top820510@gmail.com>
+Date:   Fri Dec 11 09:48:10 2020 +0800
+
+    這是歷史紀錄，可以加註解
+
+
+
+安裝 git graph 套件
+是好看的 git log
+
+
+git diff 
+在commit前檢查更動
+
+   
+git reset --hard HEAD~1
+回到上一版本
+
+git branch canvas
+開新分支 叫canvas
+名字可以自訂
+可以在樹上看到兩個標籤
+
+git chectout canvas
+離開這個版本
