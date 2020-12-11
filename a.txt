@@ -73,7 +73,7 @@ git chectout canvas
 切換到這個版本
 然後再commit 
 
-git commit -am "a 是 add , m 是 註解"
+git commit -am "a 是 add all , m 是 註解"
 
 
 git branch
@@ -93,3 +93,21 @@ git log --oneline
 
 git tag v1.0
 增加標籤
+
+
+
+git remote add origin https://github.com/Rayyyyyyyyyyyyyyyyyyyy/test.git
+選擇github資料夾
+
+ git commit -a
+ 先commit
+
+git push origin master
+推送上去
+
+git clone github網址
+把目標對象的code 拉到本機端
+
+
+在github上 點選fork
+把目標對象的code 拉到自己的github上
