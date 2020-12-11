@@ -70,4 +70,4 @@ git branch canvas
 可以在樹上看到兩個標籤
 
 git chectout canvas
-離開這個版本
+切換到這個版本
