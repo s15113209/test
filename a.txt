@@ -71,6 +71,7 @@ git branch canvas
 
 git chectout canvas
 切換到這個版本
+然後再commit 
 
 git commit -am "a 是 add , m 是 註解"
 
